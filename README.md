@@ -13,6 +13,8 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"   />
 </a>
 
+<br />
+
 ### About Me 🤠 <br />
 🎓 I'm currently a junior pursuing my Bachelors in Computer Science & Engineering. <br />
 😎 I love learning new stuffs !! <br />
@@ -28,3 +30,4 @@
 - [x] [Use Ansible playbook in AWS to Configure Reverse Proxy i.e. Haproxy and update it's configuration file automatically on each time new Managed node (Configured With Apache Webserver) join the inventory](https://www.linkedin.com/posts/vrukshali-torawane-4172bb1a0_haproxy-load-balancer-configuration-using-activity-6743039139173691392-hZUP)
 
 
+**Adding More Soon.....🤩🤩**
