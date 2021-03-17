@@ -24,6 +24,6 @@
 😎 I love learning new stuffs !! <br />
 
 ### My Learnings 🔭
-🌱 I’m currently mastering and intergrating all the emerging technologies. 📖📚
+🌱 I’m currently mastering and integrating all the emerging technologies. 📖📚
 
 ![Vrukshali's github stats](https://github-readme-stats.vercel.app/api?username=Vrukshali-26&hide=issues&show_icons=true&theme=highcontrast)
