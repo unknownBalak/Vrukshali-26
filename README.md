@@ -1,15 +1,10 @@
-<h2> Welcome Coders !!! 😎 </h2>
-
-<img src="https://miro.medium.com/max/875/1*zm5NLjdhGd3VVTA2u-xEPg.gif" width="250px" align="middle">
+<h2> Welcome folks !!! </h2>
 
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vrukshali !!
 
-<a href="https://www.linkedin.com/in/vrukshali-torawane-4172bb1a0/">
+<a href="https://www.linkedin.com/in/vrukshali-torawane">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> 
  </a> 
- <a href="https://twitter.com/vrukshali77">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"   />
-</a>
 <a href="mailto:vrukshalitorawane@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   />
 </a>
@@ -20,10 +15,13 @@
 <br />
 
 ### About Me 🤠 <br />
-🎓 I'm currently a junior pursuing my Bachelors in Computer Science & Engineering. <br />
-😎 I love learning new stuffs !! <br />
+<i> Everything I do is 100% automation, which means I'm just doing it LIVE </i> 😉
 
 ### My Learnings 🔭
-🌱 I’m currently mastering and integrating all the emerging technologies. 📖📚
+
+• <b>Languages:</b> - Python <br />
+• <b>DevOps:</b> - Ansible (EX294), Docker, Jenkins, Git, GitHub, Kubernetes (CKA & CKAD) <br />
+• <b>Cloud:</b> - AWS (CSA & Developer), Azure <br />
+• <b>RHEL8</b>
 
 ![Vrukshali's github stats](https://github-readme-stats.vercel.app/api?username=Vrukshali-26&hide=issues&show_icons=true&theme=highcontrast)
