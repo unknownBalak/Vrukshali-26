@@ -1,27 +1,39 @@
-<h2> Welcome folks !!! </h2>
-
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vrukshali !!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Vrukshali](https://www.linkedin.com/in/vrukshali-torawane) !!
 
 <a href="https://www.linkedin.com/in/vrukshali-torawane">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  /> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:vrukshalitorawane@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"   />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://twitter.com/Vrukshali26">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 <a href="https://vrukshalitorawane.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"   />
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
+<br> <br>
 
-<br />
+🎓 I’m currently a junior pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Open-Source💙 <br />
+✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
 
-### About Me 🤠 <br />
-<i> Everything I do is 100% automation, which means I'm just doing it LIVE </i> 😉
+## 🚀 Technologies 
 
-### My Learnings 🔭
+### Languages⚡
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-• <b>Languages:</b> - Python <br />
-• <b>DevOps:</b> - Ansible (EX294), Docker, Jenkins, Git, GitHub, Kubernetes (CKA & CKAD) <br />
-• <b>Cloud:</b> - AWS (CSA & Developer), Azure <br />
-• <b>RHEL8</b>
+### Dev-Ops💙 
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
 
-![Vrukshali's github stats](https://github-readme-stats.vercel.app/api?username=Vrukshali-26&hide=issues&show_icons=true&theme=highcontrast)
+### Cloud ☁
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
+
+### Databases ✔
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vrukshali-26&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=highcontrast" />
+</p>
